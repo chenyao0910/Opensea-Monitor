@@ -1,0 +1,11 @@
+{
+  "name": "opensea-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "opensea.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yao Chen",
+  "license": "ISC"
+}
